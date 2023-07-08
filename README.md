@@ -1,0 +1,2 @@
+# Konoe
+A learning process.
